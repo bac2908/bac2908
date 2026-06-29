@@ -1,8 +1,23 @@
-Hi, I'm Nguyen Van Bac 👋
+<div align="center">
 
-I am a final-year Software Engineering student with an interest in web development, backend systems, and AI-assisted product development. I enjoy building practical applications such as e-commerce websites, mini CMS systems, APIs, and responsive web interfaces.
+<img src="https://user-images.githubusercontent.com/74038190/213760677-1f652136-6cc7-4b17-bbb2-0f768c69332f.gif" width="260" alt="Coding animation" />
 
-I am currently looking for an internship opportunity where I can improve my real-world development skills, work with modern tools, and contribute to practical software products.
+Hi 👋, I'm Nguyen Van Bac
+Final-year Software Engineering student interested in Web Development, Backend Systems, and AI-assisted Software Development
+
+
+
+
+
+</div>
+
+👨‍💻 About Me
+🎓 Final-year Software Engineering student
+💻 Interested in Web Development, Backend Engineering, and AI-assisted Coding
+🚀 Passionate about building RESTful APIs, mini CMS systems, e-commerce websites, and responsive web interfaces
+🧠 Currently learning how to use ChatGPT, Claude, and Gemini to support coding, debugging, and product development
+🎯 Seeking opportunities as a Web Developer Intern / Software Developer Intern
+📍 Based in Ho Chi Minh City, Vietnam
 ## 🌐 Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vanbac.n.2908)
