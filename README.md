@@ -8,14 +8,7 @@
   Final-year Software Engineering student passionate about building practical web applications, RESTful APIs, mini CMS systems, and responsive user interfaces.
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/bacnguyen2908/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/vanbac.n.2908">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+
 
 </div>
 
