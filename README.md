@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760677-1f652136-6cc7-4b17-bbb2-0f768c69332f.gif" width="260" alt="Coding animation" />
-
 Hi 👋, I'm Nguyen Van Bac
-Final-year Software Engineering student interested in Web Development, Backend Systems, and AI-assisted Software Development
+Final-year Software Engineering Student | Web Developer Intern | Backend & AI-assisted Development
+
+I am passionate about building practical web applications, RESTful APIs, mini CMS systems, and responsive user interfaces.
 
 
 
